@@ -8,7 +8,7 @@ A state-of-the-art Deep Convolutional Neural Network (DCNN) will be trained to c
 A baseline model, without any input from the pictures themselves, achieves an accuracy of 66% on a hold-out set. Adding newly engineered features from a DCNN increases the accuracy to 74% for exact predictions and 99% for predictions plus or minus one class.
 
 <div align = "center"><img src = "foto_Snowbird.gif"></img><br>
-<sub><i>Utah’s famous powder snow, a dream for many skiers but does such a picture get more likes? (© Snowbird, Utah)</i></sub><br><br></div>
+<sub><i>Utah’s famous powder snow, a dream for many skiers but does such a picture get more likes? (© Snowbird, Utah)</i></sub><br><br><br></div>
 
 The code consists of the following steps:
 <ol>
@@ -32,7 +32,7 @@ The code consists of the following steps:
 
 The code is written in Python 3.6.1
 
-<br><br>
+<br>
 
 **Disclaimer**
 -------------
