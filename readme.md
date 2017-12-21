@@ -1,5 +1,5 @@
-<div align = "center"><big><H1>SkiNet</b></H1><br><hr><br>
-<p style = "font-size: 30px"><i>"Using deep learning to predict the popularity of pictures from ski resorts"</i></p><br><br></div>
+<div align = "center"><big><H1>SkiNet</b></H1><br>
+<H3><i>"Using deep learning to predict the popularity of pictures from ski resorts"</i></H3><br><br></div>
 
 With the enormous popularity of social networks like LinkedIn, Facebook and Instagram, the online world plays a significant role in marketing campaigns. This study focuses on the promotion of ski resorts on Instagram. The official accounts of 80 US ski resorts have been analysed in order to predict the popularity of their pictures with the objective to optimize the use of their Instagram accounts in order to reach the most people.
 
