@@ -1,6 +1,8 @@
 <div align = "center"><H1>SkiNet</b></H1>
 <H3><i>"Using deep learning to predict the popularity of pictures from ski resorts"</i></H3><br><br></div>
 
+If you'd like to read the paper, click <a href="SkiNet_Paul_Roggeveen_20171221.pdf" target="_blank">here</a>!
+
 With the enormous popularity of social networks like LinkedIn, Facebook and Instagram, the online world plays a significant role in marketing campaigns. This study focuses on the promotion of ski resorts on Instagram. The official accounts of 80 US ski resorts have been analysed in order to predict the popularity of their pictures with the objective to optimize the use of their Instagram accounts in order to reach the most people.
 
 A state-of-the-art Deep Convolutional Neural Network (DCNN) will be trained to classify the pictures and, together with additional describing features of both the resort and the pictures, will be used for the final prediction. In total over 75 thousand pictures have been used for transfer learning with the VGG architecture in order to optimize the predictions.
